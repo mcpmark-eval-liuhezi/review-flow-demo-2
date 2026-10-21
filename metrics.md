@@ -6,3 +6,5 @@
 - **active_sessions** - concurrently active user sessions
 - **cpu_usage** - host CPU utilization percentage
 - **memory_usage** - resident memory usage in MB
+
+Data retention: 90 days
